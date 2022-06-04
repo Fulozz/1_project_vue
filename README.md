@@ -1,4 +1,4 @@
-# yout-clone
+# project-2
 
 ## Project setup
 ```
